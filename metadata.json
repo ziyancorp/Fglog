@@ -1,0 +1,6 @@
+{
+  "name": "AI Storyboard & Lookbook Studio",
+  "description": "Generator Storyboard Video 10-30 Detik & Product Lookbook Showcase AI untuk TikTok, Reels, dan Shorts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
